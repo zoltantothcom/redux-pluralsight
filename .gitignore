@@ -34,3 +34,6 @@ dist
 
 # Mac files
 .DS_Store
+
+# tools - temporary ignore
+tools
